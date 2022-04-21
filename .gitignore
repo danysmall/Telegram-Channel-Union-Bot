@@ -4,3 +4,4 @@ __pycache__/
 
 # Remove local user sessions
 *.session
+*.cfg
